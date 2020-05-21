@@ -3,4 +3,4 @@
 struct Bar {
     double x;
     double y;
-}
+};
